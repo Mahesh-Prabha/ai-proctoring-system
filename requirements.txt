@@ -10,4 +10,3 @@ Flask>=3.0.0
 ultralytics>=8.0.0
 torch>=2.0.0
 silero-vad>=4.0.0
-python-dotenv>=1.0.0
