@@ -1,0 +1,12 @@
+opencv-python>=4.8.0
+mediapipe>=0.10.9
+numpy>=1.24.0
+pyaudio>=0.2.14
+pyautogui>=0.9.54
+cryptography>=41.0.0
+requests>=2.31.0
+PyYAML>=6.0
+Flask>=3.0.0
+ultralytics>=8.0.0
+torch>=2.0.0
+silero-vad>=4.0.0
