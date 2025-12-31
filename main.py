@@ -19,6 +19,10 @@ import json
 import base64
 import sys
 import traceback
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 # ========================
 # Configuration
